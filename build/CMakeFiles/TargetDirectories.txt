@@ -1,0 +1,5 @@
+/home/jijingtian/Documents/MAgent/build/CMakeFiles/edit_cache.dir
+/home/jijingtian/Documents/MAgent/build/CMakeFiles/render.dir
+/home/jijingtian/Documents/MAgent/build/CMakeFiles/rebuild_cache.dir
+/home/jijingtian/Documents/MAgent/build/CMakeFiles/testlib.dir
+/home/jijingtian/Documents/MAgent/build/CMakeFiles/magent.dir
